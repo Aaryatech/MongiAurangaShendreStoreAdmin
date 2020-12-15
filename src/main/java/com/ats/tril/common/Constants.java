@@ -18,9 +18,8 @@ public class Constants {
 	// "/home/supertom/apache-tomcat-8.5.35/webapps/MonginisStoreAdmin/report.pdf";
 	// public static String REPORT_SAVE = "/home/lenovo/Documents/pdf/Report.pdf";
 
-	// GFpl
-	public static final String url = "http://107.180.95.11:8080/storewebapi/";
-	public static final String masterUrl = "http://107.180.95.11:8080/shendrestoreapi/";
+	public static final String url = "http://107.180.95.11:8080/shendrestoreapi/";
+	public static final String masterUrl = "http://107.180.95.11:8080/storewebapi/";
 
 	public static final String adminUrl = "http://107.180.95.11:8080/webapi/";
 
